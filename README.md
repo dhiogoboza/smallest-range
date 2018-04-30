@@ -6,6 +6,9 @@ Given k sorted lists of integers of size n each, find the smallest range that in
 ## Compile
 `ant`
 
+## Test
+`ant test`
+
 ## Run
 `java -jar dist/Range.jar`
 
